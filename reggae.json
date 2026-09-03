@@ -33,6 +33,11 @@
 {"id":30,"artist":"Desc","title":"Not Done Yet","genero":"POP","src":"NotDoneYet_Desc.mp3"},
 {"id":31,"artist":"Desc","title":"Tell Me","genero":"POP","src":"TellMe_Desc.mp3"},
 {"id":32,"artist":"Nathoots","title":"Meu Reggae  e Roots","genero":"POP","src":"MeuReggaeeRoots_Nathoots.mp3"},
-{"id":33,"artist":"Nathoots","title":"O Carcara E a Rosa","genero":"POP","src":"OCarcaraEaRosa_Nathoots.mp3"}
+{"id":33,"artist":"Nathoots","title":"O Carcara E a Rosa","genero":"POP","src":"OCarcaraEaRosa_Nathoots.mp3"},
+  {"id":35,"artist":"PETER TOSH","title":"Johnny_B_Johnny","genero":"REGGAE","src":"Johnny_B_Johnny_PETER_TOSH.m4a"},
+{"id":36,"artist":"BOB MARLEY","title":"Is_This_Is_This_Love_Kaya","genero":"REGGAE","src":"Is_This_Is_This_Love_Kaya_BOB_MARLEY.m4a"},
+{"id":37,"artist":"O BROS","title":"God_Bless_God_Bless","genero":"REGGAE","src":"God_Bless_God_Bless_O_BROS.m4a"},
+{"id":38,"artist":"BOB MARLEY","title":"Waiting_In_Waiting_In_Vain","genero":"REGGAE","src":"Waiting_In_Waiting_In_Vain_BOB_MARLEY.m4a"}
+]
 ] 
 
